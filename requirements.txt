@@ -1,2 +1,4 @@
 tqdm
 selenium
+hashlib
+xlrd
