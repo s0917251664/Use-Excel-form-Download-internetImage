@@ -41,7 +41,7 @@ if __name__ == '__main__':
         print(args.workbookpath)
         workbook = xlrd.open_workbook(args.workbookpath)
         sheet = workbook.sheet_by_index(0)
-        print("Open Excel workbook :"+path)
+        print("Open Excel workbook :"+args.workbookpath)
         flag=True
     else:
         flag=False
