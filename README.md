@@ -4,6 +4,7 @@ Use Excel form automatically download internet images.
 <h1>Introduction</h1>
 <p>The source of the main code is from <br>
 https://github.com/ultralytics/google-images-download and https://github.com/ultralytics/google-images-download.<br>
+This code Only extended form query functions are provided here.<br>
 Want to know more ways to use. Please visit their page for various examples.<br>
 利用excel表單，自動讀取表單內容開始逐一下載至指定位置中<br>
 </p>
