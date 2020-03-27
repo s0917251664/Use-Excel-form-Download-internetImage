@@ -20,7 +20,6 @@ Want to know more ways to use. Please visit their page for various examples.<br>
 <h1>Requirements</h1>
 <ul>
     <li>Python 3.7 later</li>
-    <li>hashlib</li>
     <li>xlrd</li>
 </ul>
 
